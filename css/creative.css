@@ -175,7 +175,7 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: 100px;
+    min-height: auto;
     text-align: center;
     color: #fff;
     background-image: url(../img/header.jpg);
